@@ -1,0 +1,30 @@
+.header__slogan {
+    margin: 0;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.15;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    margin: 10px 10px 0 auto;
+    text-align: end;
+
+}
+
+@media (max-width:560px) {
+    .header__slogan {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width:420px) {
+    .header__slogan {
+        text-align: center;
+    }
+
+    .header__slogan:nth-child(2) {
+        margin: 0px 10px 0 auto;
+    }
+
+}

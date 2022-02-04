@@ -1,0 +1,27 @@
+.header__menu-item {
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    width: min-content;
+    font-size: 16px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    transition-duration: .5s;
+    text-align: center;
+    padding: 7.5px 7.5px 7.5px 7.5px;
+
+}
+
+.header__menu-item:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+@media (max-width:560px) {
+    .header__menu-item {
+        font-size: 14px;
+        padding: 5px 5px 5px 5px;
+    }
+
+}

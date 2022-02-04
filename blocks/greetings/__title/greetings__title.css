@@ -1,0 +1,15 @@
+.greetings__title {
+    margin: 0;
+    max-width: 1000px;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 20px;
+    line-height: 1.15;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px auto 0 auto;
+    /*border: tomato 1px solid;*/
+
+
+}

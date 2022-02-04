@@ -4,6 +4,6 @@
     min-height: 100vh;
     color: black;
     margin: 0 auto;
-    background-image: url(../../images/white-waves.png);
+    background-image: url("../../images/white-waves.png");
     /*border: springgreen 10px solid;*/
 }

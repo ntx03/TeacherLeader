@@ -1,0 +1,21 @@
+.header__menu-button-text {
+    margin: 0;
+    padding: 0;
+    width: min-content;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 20px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    background-image: url(../../../images/white-waves.png);
+    padding-top: 15px;
+    padding-left: 20px;
+
+}
+
+@media (min-width:200px) {
+    .header__menu-button-text {
+        display: block;
+    }
+}

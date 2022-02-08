@@ -1,13 +1,13 @@
 .footer__copyright {
     margin: 0;
+    max-width: 400px;
     font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
-    line-height: 1.15;
+    line-height: 1.3;
     color: black;
+    background-color: #DCDCDC;
     font-style: normal;
     font-weight: normal;
-    position: absolute;
-    top: 50px;
-    left: 20px;
-    /*border: tomato 1px solid;*/
+    margin: 30px auto 20px 20px;
+
 }

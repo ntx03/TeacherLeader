@@ -1,0 +1,12 @@
+@media (max-width:560px) {
+    .header__menu_open {
+        margin: 10px auto 30px 30px;
+        position: absolute;
+        z-index: 1;
+        display: block;
+        top: 250px;
+        box-shadow: 0 0 0 99999px rgba(0, 0, 0, .8);
+        /* fallback for IE */
+        box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .8);
+    }
+}

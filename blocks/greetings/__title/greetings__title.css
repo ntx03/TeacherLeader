@@ -10,6 +10,12 @@
     text-align: center;
     margin: 20px auto 0 auto;
     /*border: tomato 1px solid;*/
+}
 
+@media (max-width:560px) {
+    .greetings__title {
+        font-size: 16px;
+        margin: 20px 5px 0 5px;
+    }
 
 }

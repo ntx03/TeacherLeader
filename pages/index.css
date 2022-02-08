@@ -5,6 +5,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__menu-item/header__menu-item.css);
+@import url(../blocks/header/__menu-item/_click/header__menu-item_click.css);
 @import url(../blocks/header/__slogan/header__slogan.css);
 @import url(../blocks/header/__slogan-autor/header__slogan-autor.css);
 @import url(../blocks/header/__menu/_min-wigth/header__menu-item_min-width.css);
@@ -22,3 +23,16 @@
 @import url(../blocks/content/content.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyrght/footer__copyright.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__container-image/popup__container-image.css);
+@import url(../blocks/popup/__icon-image/popup__icon-image.css);
+@import url(../blocks/popup/__icon/popup__icon.css);
+@import url(../blocks/popup/__image/popup__image.css);
+@import url(../blocks/popup/__overlay/popup__overlay.css);
+@import url(../blocks/popup/__title-image/popup__title-image.css);
+@import url(../blocks/popup/_open/popup_open.css);
+@import url(../blocks/header/__menu-button/header__menu-button.css);
+@import url(../blocks/header/__menu-button-text/header__menu-button-text.css);
+@import url(../blocks/header/__menu-button-container/header__menu-button-container.css);
+@import url(../blocks/header/__menu-container/_row/header__menu-container_row.css);
+@import url(../blocks/header/__menu/_open/header__menu_open.css);

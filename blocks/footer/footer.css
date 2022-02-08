@@ -1,10 +1,10 @@
 .footer {
-    max-width: 1024px;
-    height: 80px;
-    margin: 0 auto 10px auto;
-    background-color: #c0c0c0;
-    position: relative;
+    max-width: 1022px;
+    /*height: 80px;*/
+    margin: 0 auto 0 auto;
+    background-color: #DCDCDC;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    /*border: springgreen 1px solid;*/
+    z-index: 1;
+    border: #DCDCDC 1px solid;
 }

@@ -1,4 +1,5 @@
 .header__menu-item {
+    margin: 0;
     font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
     width: min-content;
     font-size: 16px;
@@ -9,19 +10,18 @@
     text-decoration: none;
     transition-duration: .5s;
     text-align: center;
+    text-decoration: none;
     padding: 7.5px 7.5px 7.5px 7.5px;
-
-}
-
-.header__menu-item:hover {
-    background-color: whitesmoke;
-    cursor: pointer;
 }
 
 @media (max-width:560px) {
     .header__menu-item {
-        font-size: 14px;
-        padding: 5px 5px 5px 5px;
+        font-size: 16px;
+        padding: 0;
+        position: absolute;
+        top: 10px;
+        left: 0px;
+        width: 150px;
+        height: 20px;
     }
-
 }

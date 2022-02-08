@@ -7,3 +7,7 @@
     object-fit: cover;
 
 }
+
+.greetings__image:hover {
+    cursor: pointer;
+}

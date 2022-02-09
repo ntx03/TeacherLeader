@@ -1,0 +1,6 @@
+.video__card {
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    margin: 20px auto 20px auto;
+}

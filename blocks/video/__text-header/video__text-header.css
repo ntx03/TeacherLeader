@@ -1,0 +1,12 @@
+.video__text-heaher {
+    margin: 0;
+    max-width: 1000px;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px auto 20px auto;
+}

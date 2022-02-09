@@ -1,0 +1,15 @@
+.contacts__container {
+    max-width: 1024px;
+    margin: 40px auto 0 auto;
+    display: flex;
+    flex-direction: row;
+    background-color: #DCDCDC;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+@media (max-width:767px) {
+    .contacts__container {
+        flex-direction: column;
+    }
+}

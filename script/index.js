@@ -41,11 +41,6 @@ function closePopupImageMain() {
 // открываем меню
 function openMenu() {
     menu.classList.add('header__menu_open');
-    console.log("click");
-    //menuButtons.forEach((item) => {
-    //    item.addEventListener('click', menu.classList.remove('header__menu_open'));
-    // })
-
 }
 
 // слушаем кнопку меню

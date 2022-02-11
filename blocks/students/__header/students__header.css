@@ -1,0 +1,11 @@
+.students__header {
+    margin: 0;
+    font-family: inter, "Helvetica Neue", "Arial", sans-serif;
+    font-size: 18px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px auto 0 auto;
+}

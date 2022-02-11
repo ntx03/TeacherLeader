@@ -1,4 +1,12 @@
 .parents__document {
-    width: 450px;
-    min-height: 300px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px auto 10px auto;
+    align-items: center;
+    background-color: whitesmoke;
+    padding-right: 5px;
+    border-radius: 5px;
+    width: 100%;
+    justify-content: space-between;
+
 }

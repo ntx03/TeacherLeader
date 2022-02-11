@@ -1,6 +1,6 @@
 .header__menu-item {
     margin: 0;
-    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-family: inter, "Helvetica Neue", "Arial", sans-serif;
     width: min-content;
     font-size: 16px;
     line-height: 1.15;
@@ -8,13 +8,13 @@
     font-style: normal;
     font-weight: bold;
     text-decoration: none;
-    transition-duration: .5s;
+    transition-duration: 0.5s;
     text-align: center;
     text-decoration: none;
     padding: 7.5px 7.5px 7.5px 7.5px;
 }
 
-@media (max-width:560px) {
+@media (max-width: 560px) {
     .header__menu-item {
         font-size: 16px;
         padding: 0;

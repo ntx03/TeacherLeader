@@ -38,6 +38,7 @@ function openPopupImageMain() {
 function closePopupImageMain() {
     popupClose(popupImage);
 }
+
 // открываем меню
 function openMenu() {
     menu.classList.add('header__menu_open');

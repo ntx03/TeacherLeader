@@ -1,0 +1,19 @@
+.parents__document-link {
+    text-decoration: none;
+    font-family: inter, "Helvetica Neue", "Arial", sans-serif;
+    font-size: 12px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding: 7.5px;
+    background-color: #DCDCDC;
+    border-radius: 5px;
+}
+
+.parents__document-link:hover {
+    background-color: rgba(75, 192, 8, 0.616);
+    transition: 0.5s;
+    border-radius: 5px;
+}

@@ -1,0 +1,9 @@
+.me__card-container {
+    width: 100%;
+    position: relative;
+    padding-top: 55%;
+    padding-left: 1;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 15px;
+}

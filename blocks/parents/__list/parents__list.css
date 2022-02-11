@@ -1,0 +1,18 @@
+.parents__list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 1fr;
+    padding: 0;
+    gap: 10px;
+    margin: 20px 10px 0 10px;
+}
+
+@media (max-width:767px) {
+    .parents__list {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 85%;
+        margin: 15px auto 15px auto;
+    }
+
+}

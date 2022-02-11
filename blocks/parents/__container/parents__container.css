@@ -1,0 +1,9 @@
+.parents__container {
+    max-width: 1024px;
+    margin: 20px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #DCDCDC;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

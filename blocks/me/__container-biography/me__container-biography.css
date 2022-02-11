@@ -1,0 +1,13 @@
+.me__container-biography {
+    max-width: 1024px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: min-content;
+}
+
+@media (max-width:767px) {
+    .me__container-biography {
+        display: flex;
+        flex-direction: column;
+    }
+}

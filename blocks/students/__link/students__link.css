@@ -1,0 +1,14 @@
+.students__link {
+    text-decoration: none;
+    font-family: inter, "Helvetica Neue", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.students__link:hover {
+    color: brown;
+}

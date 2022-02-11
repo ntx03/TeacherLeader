@@ -1,0 +1,26 @@
+.me__image-container {
+    width: 65%;
+    height: 45%;
+    position: relative;
+    padding-top: 50%;
+    padding-left: 25%;
+    object-fit: cover;
+    object-position: center;
+    margin: 20px 20px 20px 20px;
+}
+
+
+@media (max-width:767px) {
+    .me__image-container {
+        width: 69%;
+        padding-top: 100%;
+        margin: 15px auto 0 auto;
+
+    }
+}
+
+@media (max-width:530px) {
+    .me__image-container {
+        margin: 15px auto 0 auto;
+    }
+}

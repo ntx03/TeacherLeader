@@ -8,8 +8,9 @@
     border-top-right-radius: 5px;
 }
 
-@media (max-width:767px) {
+@media (max-width:799px) {
     .contacts__container {
         flex-direction: column;
+
     }
 }

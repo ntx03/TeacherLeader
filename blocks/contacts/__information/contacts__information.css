@@ -1,1 +1,5 @@
-.contacts__information {}
+@media (max-width:799px) {
+    .contacts__information {
+        max-width: 1024px;
+    }
+}

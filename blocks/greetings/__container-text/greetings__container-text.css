@@ -1,5 +1,3 @@
-@media (max-width:767px) {
-    .greetings__container-text {
-        margin: 0 0 0 20px;
-    }
+.greetings__container-text {
+    margin: 0 10px 0 10px;
 }

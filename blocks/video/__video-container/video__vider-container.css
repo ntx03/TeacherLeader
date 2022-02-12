@@ -1,0 +1,9 @@
+.video__video-container {
+    width: 59%;
+    position: relative;
+    padding-top: 60%;
+    padding-left: 40%;
+    object-fit: contain;
+    object-position: center;
+    margin: 0 auto 0 auto;
+}

@@ -53,6 +53,7 @@
 @import url(../blocks/contacts/__text/contacts__text.css);
 @import url(../blocks/contacts/__title/contacts__title.css);
 @import url(../blocks/contacts/__social-network-icon/contacts__social-network-icon.css);
+@import url(../blocks/contacts/__box/contacts__box.css);
 @import url(../blocks/video/__container/video__container.css);
 @import url(../blocks/video/__title/video__title.css);
 @import url(../blocks/video/video.css);
@@ -60,6 +61,8 @@
 @import url(../blocks/video/__card/video__card.css);
 @import url(../blocks/video/__text-header/video__text-header.css);
 @import url(../blocks/video/__text/video__text.css);
+@import url(../blocks/video/__video-container/video__vider-container.css);
+@import url(../blocks/video/__box/video__box.css);
 @import url(../blocks/parents/__document-container/parents__document-container.css);
 @import url(../blocks/parents/__document-header/parents__document-header.css);
 @import url(../blocks/parents/__document/parents__document.css);
@@ -68,6 +71,10 @@
 @import url(../blocks/parents/__document/parents__document.css);
 @import url(../blocks/parents/__container/parents__container.css);
 @import url(../blocks/parents/__list/parents__list.css);
+@import url(../blocks/parents/__menu/parents__menu.css);
+@import url(../blocks/parents/__menu-container/parents__menu-container.css);
+@import url(../blocks/parents/__menu-item-width/parents__menu-item-width.css);
+@import url(../blocks/parents/__menu-item/parents__menu-item.css);
 @import url(..//blocks/me/__card-container/me__card-container.css);
 @import url(../blocks/me/__container-biography/me__container-biography.css);
 @import url(../blocks/me/__container-cards/me__container-cards.css);

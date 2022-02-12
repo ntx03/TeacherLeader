@@ -1,3 +1,21 @@
 .contacts__map {
-    margin: 20px 20px 0 20px;
+    width: 10%;
+    position: relative;
+    padding-top: 40%;
+    padding-left: 40%;
+    object-fit: contain;
+    object-position: center;
+    margin: 10px 10px 0 auto;
+}
+
+@media (max-width:799px) {
+    .contacts__map {
+        width: 35%;
+        position: relative;
+        padding-top: 60%;
+        padding-left: 60%;
+        object-fit: contain;
+        object-position: center;
+        margin: 0 auto 0 auto;
+    }
 }

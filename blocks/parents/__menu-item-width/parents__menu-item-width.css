@@ -1,0 +1,10 @@
+.parents__menu-item-width {
+    min-width: 75px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+.parents__menu-item-width:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+}

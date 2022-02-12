@@ -1,5 +1,5 @@
-.header__menu {
-    max-width: min-content;
+.parents__menu {
+    max-width: max-content;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,14 +12,9 @@
     border: 1px solid #DCDCDC;
 }
 
-@media (max-width:960px) {
-    .header__menu {
-        flex-direction: column;
-    }
-}
-
-@media (max-width:560px) {
-    .header__menu {
-        display: none;
+@media (max-width:410px) {
+    .parents__menu {
+        margin: 10px 10px 30px 10px;
+        border: 1px solid #DCDCDC;
     }
 }

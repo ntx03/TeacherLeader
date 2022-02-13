@@ -44,6 +44,8 @@ function openPopupImageMain() {
 // закрываем попап с фотографиями на первой странице
 function closePopupImageMain() {
     popupClose(popupImage);
+    imagePopup.src = "";
+    popupText.textContent = "";
 }
 
 // открываем меню

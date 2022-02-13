@@ -40,6 +40,8 @@ function closepopupEsc(evt) {
 // открываем попап с фотографиями на первой странице
 function openPopupImageMain() {
     openPopup(popupImage);
+    imagePopup.src = "";
+    popupText.textContent = "";
 }
 // закрываем попап с фотографиями на первой странице
 function closePopupImageMain() {

@@ -96,3 +96,16 @@
 @import url(../blocks/students/__container/students__container.css);
 @import url(../blocks/students/__link/students__link.css);
 @import url(../blocks/students/__card/students__card.css);
+@import url(../blocks/photo/photo.css);
+@import url(../blocks/photo/__block/photo__block.css);
+@import url(../blocks/photo/__container/photo__container.css);
+@import url(../blocks/photo/__image/photo__image.css);
+@import url(../blocks/photo/__block/_two/photo__block_two.css);
+@import url(../blocks/news/__block/news__block.css);
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__header/news__header.css);
+@import url(../blocks/news/__name/news__name.css);
+@import url(../blocks/news/__data/news__data.css);
+@import url(../blocks/news/__text/news__text.css);
+@import url(../blocks/news/__image/news__image.css);
+@import url(../blocks/news/__container-video/news__container-video.css);

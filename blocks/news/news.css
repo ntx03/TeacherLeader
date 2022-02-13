@@ -1,0 +1,9 @@
+.news {
+    display: flex;
+    flex-direction: column;
+    max-width: 1026px;
+    background-color: #DCDCDC;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin: 40px auto 0 auto;
+}

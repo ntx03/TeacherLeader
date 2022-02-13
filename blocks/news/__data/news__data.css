@@ -1,0 +1,12 @@
+.news__data {
+    margin: 0;
+    max-width: 1000px;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 14px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    text-align: start;
+    margin: 0 auto 20px 0;
+}

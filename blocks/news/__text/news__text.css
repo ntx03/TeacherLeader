@@ -1,0 +1,19 @@
+.news__text {
+    margin: 0;
+    max-width: 1000px;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: 15px;
+    margin: 0 20px 20px 0;
+}
+
+@media (max-width:500px) {
+    .news__text {
+        font-size: 14px;
+    }
+}

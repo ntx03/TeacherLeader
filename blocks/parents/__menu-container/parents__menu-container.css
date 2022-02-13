@@ -6,4 +6,6 @@
     flex-direction: row;
     list-style-type: none;
     text-decoration: none;
+    margin-right: auto;
+    margin-left: auto;
 }

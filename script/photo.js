@@ -2,7 +2,7 @@ const mainImage = document.querySelector('.greetings__image');
 // фото Анны Кототаевой о себе
 const aboutMeImage = document.querySelector('.me__image-biography');
 // попап с фото 
-const popupImage = document.querySelector('#popup_image_main');
+const popupImage = document.querySelector('.popup');
 // Фото в попапе
 const imagePopup = document.querySelector('.popup__image');
 //текст попапа
@@ -18,7 +18,7 @@ const menu = document.querySelector('.header__menu');
 // кнопки меню
 const menuButtons = document.querySelectorAll('.header__menu-item');
 // ищем фотографии по документу
-const image = document.querySelectorAll('.me__image');
+const image = document.querySelectorAll('.photo__image');
 
 // функция открытия попапа
 function openPopup(popup) {
@@ -65,6 +65,5 @@ menuButton.addEventListener('click', openMenu);
 
 
 // слушаем фото на главной странице
-aboutMeImage.addEventListener("click", openPopupImageMain);
 closeIcon.addEventListener('click', closePopupImageMain);
 popupOverlay.addEventListener('click', closePopupImageMain);

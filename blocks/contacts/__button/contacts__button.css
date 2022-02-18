@@ -1,0 +1,12 @@
+.contacts__button {
+    margin: 0 auto 35px auto;
+    width: 100px;
+    background-color: #DCDCDC;
+    border: 1px solid gray;
+}
+
+@media (max-width:420px) {
+    .contacts__button {
+        margin: 0 auto 20px auto;
+    }
+}

@@ -1,0 +1,19 @@
+.contact__textarea {
+    width: 320px;
+    height: 90px;
+    margin: 0 auto 20px auto;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-family: inter, 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 12px;
+    line-height: 1.15;
+    color: black;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@media (max-width:420px) {
+    .contact__textarea {
+        width: 260px;
+    }
+}

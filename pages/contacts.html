@@ -95,6 +95,20 @@
                             frameborder="0"></iframe>
                     </div>
                 </div>
+                <div class="contacts__form-container">
+                    <h2 class="contacts__text-header">Жду ваших сообщений</h2>
+                    <form class="contacts__form" name="form_for_post_message">
+
+                        <input type="text" required placeholder="Имя и фамилия" value="" minlength="2" maxlength="40"
+                            name="name" class="contacts__input">
+
+                        <textarea type="text" required placeholder="Текст сообщения" value="" minlength="2"
+                            maxlength="1000" name="message" class="contact__textarea"></textarea>
+
+                        <button id="button_form" class="contacts__button" type="submit">Отправить</button>
+
+                    </form>
+                </div>
             </section>
 
         </main>
@@ -102,7 +116,7 @@
             <p class="footer__copyright">&copy; 2022. Сайт учителя географии, Коротаевой Анны Юрьевны.</p>
         </footer>
     </div>
-    <script src="../script/menu.js"></script>
+    <script src="../script/contacts.js"></script>
 </body>
 
 </html>

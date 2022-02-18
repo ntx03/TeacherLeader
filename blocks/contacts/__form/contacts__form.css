@@ -1,0 +1,14 @@
+.contacts__form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 20px auto 20px auto;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+@media (max-width:420px) {
+    .contacts__form {
+        width: 300px;
+    }
+}

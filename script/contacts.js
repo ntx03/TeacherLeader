@@ -27,22 +27,22 @@ function openMenu() {
 menuButton.addEventListener('click', openMenu);
 
 // слушаем отправку формы
-form.addEventListener('submit', function formSend(evt) {
-    evt.preventDefault();
-    //fetch('sendmail.php', {
-    //    method: "POST",
-    //    body: JSON.stringify({
-    //        message: formData
-    //    }),
-    // });
-    // if (res.ok) {
-    //     return res.json();
-    // } else {
-    //    return Promise.reject(
-    //        `Что-то пошло не так: Ошибка ${res.status} - ${res.statusText}`
-    //     );
-    // }
-    // $(document).ready(function() {
+//form.addEventListener('submit', function formSend(evt) {
+//   evt.preventDefault();
+//fetch('sendmail.php', {
+//    method: "POST",
+//    body: JSON.stringify({
+//        message: formData
+//    }),
+// });
+// if (res.ok) {
+//     return res.json();
+// } else {
+//    return Promise.reject(
+//        `Что-то пошло не так: Ошибка ${res.status} - ${res.statusText}`
+//     );
+// }
+$(document).ready(function () {
 
     //E-mail Ajax Send
     $("form").submit(function () { //Change

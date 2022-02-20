@@ -1,7 +1,7 @@
 .news {
     display: flex;
     flex-direction: column;
-    max-width: 1026px;
+    max-width: 1024px;
     background-color: #DCDCDC;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
